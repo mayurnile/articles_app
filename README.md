@@ -26,7 +26,7 @@ A modern Flutter application that fetches and displays articles from a remote AP
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/mayurnile/articles_app.git
 cd articles_app
 ```
 
